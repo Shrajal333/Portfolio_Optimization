@@ -1,4 +1,4 @@
-Portfolio Optimization
+# Portfolio Optimization
 This repository contains a comprehensive analysis and implementation of portfolio optimization techniques using various financial metrics and models. The notebook covers the following key aspects:
 
 ### Portfolio Metrics:
